@@ -64,4 +64,4 @@ This dashboard is ideal for:
 
 ## ✍️ Author
 
-Crafted by [Your Name] — Financial Data Projects Portfolio.
+Crafted by [Benosman Hichem] — Financial Data Projects Portfolio.
